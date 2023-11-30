@@ -1,0 +1,81 @@
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal\x64\Debug\TrabajoFinal.exe
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Juego.resources
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Preguntas.resources
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Presentacion.resources
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Seleccion.resources
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+D:\Downloads\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.exe
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.exe
+C:\Users\piero\Downloads\TrabajoFinal2\TrabajoFinal2\TrabajoFinal2\x64\Debug\TrabajoFinal.Juego2.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Juego2.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.exe
+C:\Users\piero\OneDrive\Escritorio\TrabajoFinal3\x64\Debug\TrabajoFinal.Preguntas2.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Juego2.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Preguntas2.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.exe
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Lose.resources
+C:\Users\piero\OneDrive\Escritorio\Hito2\x64\Debug\TrabajoFinal.Win.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Juego.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Juego2.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Lose.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Preguntas.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Preguntas2.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Presentacion.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Seleccion.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Win.resources
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+D:\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.exe
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Juego2.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Lose.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.Win.resources
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\piero\Downloads\TrabajoFinalEthan1\TrabajoFinalEthan1\TrabajoFinalEthan\x64\Debug\TrabajoFinal.exe
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Juego.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Juego2.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Lose.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Preguntas.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Presentacion.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Seleccion.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.Win.resources
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\MultiLab.exe

@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (TrabajoFinal.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Presentacion.cpp
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Seleccion.h(142,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Seleccion.h(143,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Presentacion.h(115,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\Presentacion.h(116,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Juego.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal.vcxproj -> C:\Users\User\Desktop\CodigoTrabajoFinal (1)\CodigoTrabajoFinal\x64\Debug\MultiLab.exe
