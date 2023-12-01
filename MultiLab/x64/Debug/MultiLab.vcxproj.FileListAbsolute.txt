@@ -9,3 +9,14 @@ C:\Users\User\Desktop\CodigoTrabajoFinal (1)\MultiLab\x64\Debug\MultiLab.Selecci
 C:\Users\User\Desktop\CodigoTrabajoFinal (1)\MultiLab\x64\Debug\MultiLab.Win.resources
 C:\Users\User\Desktop\CodigoTrabajoFinal (1)\MultiLab\x64\Debug\MultiLab.vcxproj.GenerateResource.cache
 C:\Users\User\Desktop\CodigoTrabajoFinal (1)\MultiLab\x64\Debug\MultiLab.exe
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Juego.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Juego2.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Lose.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Preguntas.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Presentacion.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Seleccion.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.Win.resources
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.exe

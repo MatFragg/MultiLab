@@ -1,1 +1,104 @@
-﻿
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (TrabajoFinal.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Juego.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Juego2.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Lose.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Preguntas.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Preguntas2.cpp
+  Presentacion.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Seleccion.h(142,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Seleccion.h(143,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Presentacion.h(115,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Presentacion.h(116,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Seleccion.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(108,14): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(112,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(116,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(121,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(125,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(130,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Numeros.h(134,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(366,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(367,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(368,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Preguntas.h(369,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(90,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Lose.h(91,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Seleccion.h(142,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Seleccion.h(143,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Win.cpp
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(84,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\MutliLab\MultiLab\Win.h(85,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Juego.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  MultiLab.vcxproj -> C:\Users\User\source\repos\MutliLab\MultiLab\x64\Debug\MultiLab.exe
